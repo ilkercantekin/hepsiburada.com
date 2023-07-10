@@ -1,0 +1,8 @@
+utilities\formatter\PrettyReports.class
+utilities\ConfigReader.class
+utilities\Driver.class
+pages\AllPages.class
+stepDefinitions\HepsiburadaStepDefinition.class
+utilities\formatter\ConfigFactory.class
+runner\TestRunner.class
+utilities\ReusableMethods.class
